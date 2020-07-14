@@ -8,7 +8,7 @@
 
 ---
 ## Tools
-### vim
+### 1.vim
 [.vim文件夹](https://github.com/IammyselfYBX/.vim)
 
 [Vim实用技巧](https://github.com/IammyselfYBX/Practical_vim)
@@ -19,7 +19,11 @@
 
 [Java API](https://github.com/IammyselfYBX/Java_API)
 
-### [Markdown](https://github.com/IammyselfYBX/Markdown_Learning)
+### 2.[Markdown](https://github.com/IammyselfYBX/Markdown_Learning)
+
+
+### 3.动画
+[manim](https://github.com/IammyselfYBX/manim)
 
 
 ---
