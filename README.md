@@ -11,8 +11,6 @@
 ### 1.vim
 [.vim文件夹](https://github.com/IammyselfYBX/.vim)
 
-[Vim实用技巧](https://github.com/IammyselfYBX/Practical_vim)
-
 [Tools](https://github.com/IammyselfYBX/hacker_tools)
 
 [Vim Plug](https://github.com/IammyselfYBX/vim-plug)
