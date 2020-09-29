@@ -3,6 +3,13 @@
 ## 配置
 [ArchLinux](https://github.com/IammyselfYBX/ArchLinux)
 
+### .config
+[i3wm](https://github.com/IammyselfYBX/i3wm_configuration)
+
+显卡终端:[alacritty](https://github.com/IammyselfYBX/alacritty_configuration)
+
+透明化:[compton](https://github.com/IammyselfYBX/compton_configuration)
+
 [Linux字体](https://github.com/IammyselfYBX/Linux_fonts)
 
 
