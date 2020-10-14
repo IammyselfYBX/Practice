@@ -22,7 +22,7 @@
 
 [Vim Plug](https://github.com/IammyselfYBX/vim-plug)
 
-[Java API](https://github.com/IammyselfYBX/Java_API)
+
 
 ### 2.[Markdown](https://github.com/IammyselfYBX/Markdown_Learning)
 
@@ -30,6 +30,13 @@
 ### 3.动画
 [manim](https://github.com/IammyselfYBX/manim)
 
+
+### 4.API 说明手册
+[Java API](https://github.com/IammyselfYBX/Java_API)
+> java是一个很糟糕的语言不建议使用!!!
+
+### 5.计算器
+[卡西欧 fx-991CN X说明书](https://github.com/IammyselfYBX/CASIO_calc_manual)
 
 ---
 ## 项目
